@@ -13,4 +13,4 @@ hello xievv! hello git!
 hello xievv! hello git!
 hello xievv! hello git!
 hello xievv! hello git! master test
-hello xievv! hello git!
+hello xievv! hello git! hot-fix test
